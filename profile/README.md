@@ -1,35 +1,37 @@
-# 禾赛科技空间感知
+# Hesai Spatial Perception
 
-这里是禾赛科技空间感知相关开源项目的 GitHub 组织。
+This is the GitHub home for Hesai Technology's open-source spatial perception projects.
 
-我们围绕激光雷达数据接入、点云处理、定位建图、多传感器融合和算法工具链，发布可复用的代码、示例和文档，帮助开发者将禾赛雷达更稳定地集成到机器人、自动驾驶、测绘和空间智能等应用中。
+We publish reusable code, examples, and documentation for LiDAR data integration, point cloud processing, localization and mapping, multi-sensor fusion, and related engineering tools. These projects help developers integrate Hesai LiDARs into robotics, autonomous driving, mapping, and other spatial intelligence applications.
 
-官方文档：[禾赛开发者中心](https://hesaitechnology.github.io/dev/zh/)
+Official documentation: [Hesai Developer Center](https://hesaitechnology.github.io/dev/)  
+中文介绍：[README.zh.md](README.zh.md)  
+中文文档：[禾赛开发者中心](https://hesaitechnology.github.io/dev/zh/)
 
-## 你可以在这里找到
+## What You Can Find Here
 
-- 禾赛雷达 ROS / ROS 2 数据接入示例
-- SLAM、定位与建图算法适配
-- 点云与 IMU 数据处理工具
-- 标定、同步和数据质量检查实践
-- 面向工程使用的配置说明和快速教程
+- ROS / ROS 2 data integration examples for Hesai LiDARs
+- SLAM, localization, and mapping integrations
+- Point cloud and IMU data processing tools
+- Calibration, synchronization, and data quality practices
+- Configuration guides and quickstarts for engineering use
 
-## 开始使用
+## Getting Started
 
-- 查看各仓库的 `README.md`，了解项目用途、依赖和运行方式。
-- 阅读对应雷达型号或算法模块的快速使用文档。
-- 反馈问题时，请尽量提供系统版本、ROS 版本、雷达型号、配置文件和复现步骤。
+- Check each repository's `README.md` for its purpose, dependencies, and usage.
+- Read the quickstart guide for your LiDAR model or algorithm module.
+- When opening an Issue, please include your OS version, ROS version, LiDAR model, configuration files, and reproduction steps when possible.
 
-## 参与贡献
+## Contributing
 
-欢迎通过 Issue 和 Pull Request 参与改进：
+Issues and Pull Requests are welcome:
 
-- 反馈问题、需求或使用建议
-- 改进文档、配置或示例代码
-- 分享基于禾赛雷达的定位、建图和感知实践
+- Report bugs, requests, or usage feedback
+- Improve documentation, configurations, or example code
+- Share localization, mapping, and perception practices built with Hesai LiDARs
 
-## 关于禾赛科技
+## About Hesai Technology
 
-禾赛科技专注于高性能激光雷达技术，产品广泛应用于自动驾驶、机器人、智慧城市、工业测量等领域。
+Hesai Technology specializes in high-performance LiDAR systems used in autonomous driving, robotics, smart cities, industrial measurement, and other spatial intelligence applications.
 
-我们希望通过开源项目和开发文档，让激光雷达能力更容易被理解、集成、验证和落地。
+Through open-source projects and developer documentation, we aim to make LiDAR capabilities easier to understand, integrate, validate, and deploy.
