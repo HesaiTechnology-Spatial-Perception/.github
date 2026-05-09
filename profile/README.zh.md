@@ -14,6 +14,11 @@
 - 标定、同步和数据质量检查实践
 - 面向工程使用的配置说明和快速教程
 
+## 核心项目
+
+- [HesaiLidar_ROS_2.0](https://github.com/HesaiTechnology/HesaiLidar_ROS_2.0)：禾赛雷达 ROS / ROS 2 驱动与示例
+- [HesaiLidar_SDK_2.0](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0)：禾赛雷达数据采集与解析跨平台 SDK
+
 ## 开始使用
 
 - 查看各仓库的 `README.md`，了解项目用途、依赖和运行方式。
