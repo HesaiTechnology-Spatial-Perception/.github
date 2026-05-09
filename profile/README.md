@@ -16,13 +16,10 @@ Official documentation: [Hesai Developer Center](https://hesaitechnology.github.
 - Calibration, synchronization, and data quality practices
 - Configuration guides and quickstarts for engineering use
 
-## Core Projects
+## Getting Started
 
 - [HesaiLidar_ROS_2.0](https://github.com/HesaiTechnology/HesaiLidar_ROS_2.0): ROS / ROS 2 driver and examples for Hesai LiDARs
 - [HesaiLidar_SDK_2.0](https://github.com/HesaiTechnology/HesaiLidar_SDK_2.0): Cross-platform SDK for Hesai LiDAR data acquisition and parsing
-
-## Getting Started
-
 - Check each repository's `README.md` for its purpose, dependencies, and usage.
 - Read the quickstart guide for your LiDAR model or algorithm module.
 - When opening an Issue, please include your OS version, ROS version, LiDAR model, configuration files, and reproduction steps when possible.
